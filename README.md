@@ -63,6 +63,6 @@ This project was designed to replicate real-world data analytics workflows in fi
 
 ## 📬 Contact
 
-For questions, collaborations, or opportunities, reach out via [LinkedIn]([https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/harsh-jha-321a28284/))
+For questions, collaborations, or opportunities, reach out via [LinkedIn](https://www.linkedin.com/in/your-username/](https://www.linkedin.com/in/harsh-jha-321a28284/)
 
 
