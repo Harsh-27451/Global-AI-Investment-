@@ -57,7 +57,7 @@ This Power BI project analyzes global artificial intelligence (AI) investment tr
 
 ## 📌 Use Case
 
-This project was designed to replicate real-world data analytics workflows in financial services — such as those used at Goldman Sachs — by bringing together macroeconomic investment, talent market dynamics, and technology adoption into a single decision-support system.
+This project was designed to replicate real-world data analytics workflows in financial services  — by bringing together macroeconomic investment, talent market dynamics, and technology adoption into a single decision-support system.
 
 ---
 
