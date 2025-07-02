@@ -1,10 +1,10 @@
-# 🌍 AI Investment & Adoption Intelligence Dashboard
+# AI Investment & Adoption Intelligence Dashboard
 
 This Power BI project analyzes global artificial intelligence (AI) investment trends, job market dynamics, and corporate AI adoption across a 10-year span (2013–2024). The dashboard is designed to simulate real-world financial and strategic analytics — bringing together multiple datasets to surface actionable insights on where, how, and why AI is growing globally.
 
 ---
 
-## 📊 Key Features
+## Key Features
 
 - **$3T+ in AI Investment Visualized**: Tracks mergers, acquisitions, and private funding across 50+ countries.
 - **Dynamic Geo & Time Filtering**: Drill down by year, country, or investment type to uncover granular patterns.
@@ -15,7 +15,7 @@ This Power BI project analyzes global artificial intelligence (AI) investment tr
 
 ---
 
-## 🧠 Tools & Technologies
+##  Tools & Technologies
 
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
@@ -24,7 +24,7 @@ This Power BI project analyzes global artificial intelligence (AI) investment tr
 
 ---
 
-## 📁 Dataset Sources
+##  Dataset Sources
 
 1. **AI Investment Data**  
    Source: CSET Private Investment in AI  
@@ -37,7 +37,7 @@ This Power BI project analyzes global artificial intelligence (AI) investment tr
 
 ---
 
-## 📈 Insights Enabled
+##  Insights Enabled
 
 - Identify top countries by AI investment and adoption
 - Track investment surges (e.g. 2021 funding peak)
@@ -46,7 +46,7 @@ This Power BI project analyzes global artificial intelligence (AI) investment tr
 
 ---
 
-## 🔧 Getting Started
+##  Getting Started
 
 1. Download the `.pbix` file from this repo
 2. Open in Power BI Desktop
@@ -55,13 +55,13 @@ This Power BI project analyzes global artificial intelligence (AI) investment tr
 
 ---
 
-## 📌 Use Case
+##  Use Case
 
 This project was designed to replicate real-world data analytics workflows in financial services  — by bringing together macroeconomic investment, talent market dynamics, and technology adoption into a single decision-support system.
 
 ---
 
-## 📬 Contact
+##  Contact
 
 For questions, collaborations, or opportunities, reach out via [LinkedIn](https://www.linkedin.com/in/harsh-jha-321a28284/)
 
